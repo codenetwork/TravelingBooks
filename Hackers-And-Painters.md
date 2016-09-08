@@ -4,7 +4,7 @@ Hackers & Painters: Big Ideas from the Computer Age is a collection of essays fr
 programming languages, start-up companies, and many other technological issues.
 
 { name } ( { Contact Detail } )
-- Adam Hibble (Twitter: [@Algomancer](https://twitter.com/algomancer))
+- Adam Hibble (Twitter: [@Algomancer](https://twitter.com/algomancer)) [R]
 - Mitchell Johnsonn (?)
 - Lewis Bobbermen (Twitter: @_lewisjb)
 - Brendan Clohesy (?)
