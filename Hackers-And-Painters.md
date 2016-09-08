@@ -10,5 +10,5 @@ programming languages, start-up companies, and many other technological issues.
 - Brendan Clohesy (?)
 - Jonny Hall (Email: jonnyhall@bigpond.com, Messenger: m.me/thejonnyhall)
 - Harris Jubb (Twitter: [@HarryJubb](https://twitter.com/harryjubb))
-- Zak Desmond Waters (?)
+- Zak Desmond Waters (Email: zak.waters@gmail.com, Twitter: [@zakkww](https://twitter.com/zakkww))
 - Sam Keightley (Email: sam.keightley@gmail.com, Twitter: [@SamKeights](https://twitter.com/SamKeights))
