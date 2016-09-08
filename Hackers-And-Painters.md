@@ -9,6 +9,6 @@ programming languages, start-up companies, and many other technological issues.
 - Lewis Bobbermen (Twitter: [@_lewisjb](https://twitter.com/_lewisjb))
 - Brendan Clohesy (?)
 - Jonny Hall (Email: jonnyhall@bigpond.com, Messenger: m.me/thejonnyhall)
-- Harris Jubb (?)
+- Harris Jubb (Twitter: [@HarryJubb](https://twitter.com/harryjubb))
 - Zak Desmond Waters (?)
 - Sam Keightley (Email: sam.keightley@gmail.com, Twitter: [@SamKeights](https://twitter.com/SamKeights))
