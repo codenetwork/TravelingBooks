@@ -8,7 +8,7 @@ programming languages, start-up companies, and many other technological issues.
 - Mitchell Johnsonn (?)
 - Lewis Bobbermen (Twitter: @_lewisjb)
 - Brendan Clohesy (?)
-- Jonny Hall (?)
+- Jonny Hall (Email: jonnyhall@bigpond.com, Messenger: m.me/thejonnyhall)
 - Harris Jubb (?)
 - Zak Desmond Waters (?)
 - Sam Keightley (Email: sam.keightley@gmail.com, Twitter: @SamKeights)
