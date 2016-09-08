@@ -5,3 +5,10 @@ programming languages, start-up companies, and many other technological issues.
 
 { name } ( { Contact Detail } )
 - Adam Hibble (Twitter: @Algomancer)
+- Mitchell Johnsonn (?)
+- Lewis Bobbermen
+- Brendan Clohesy
+- Jonny Hall
+- Harris Jubb
+- Zak Desmond Waters
+
