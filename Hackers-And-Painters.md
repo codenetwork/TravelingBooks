@@ -6,7 +6,7 @@ programming languages, start-up companies, and many other technological issues.
 { name } ( { Contact Detail } )
 - Adam Hibble (Twitter: @Algomancer)
 - Mitchell Johnsonn (?)
-- Lewis Bobbermen (?)
+- Lewis Bobbermen (Twitter: @_lewisjb)
 - Brendan Clohesy (?)
 - Jonny Hall (?)
 - Harris Jubb (?)
