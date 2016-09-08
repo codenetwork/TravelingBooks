@@ -11,4 +11,4 @@ programming languages, start-up companies, and many other technological issues.
 - Jonny Hall (Email: jonnyhall@bigpond.com, Messenger: m.me/thejonnyhall)
 - Harris Jubb (?)
 - Zak Desmond Waters (?)
-- Sam Keightley (Email: sam.keightley@gmail.com, Twitter: @SamKeights)
+- Sam Keightley (Email: sam.keightley@gmail.com, Twitter: [@SamKeights](https://twitter.com/SamKeights))
