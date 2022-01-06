@@ -5,7 +5,7 @@ programming languages, start-up companies, and many other technological issues.
 
 { name } ( { Contact Detail } )
 - Adam Hibble (Twitter: [@Algomancer](https://twitter.com/algomancer)) [R]
-- Mitchell Johnsonn (?)
+- Mitchell Johnson (Twitter: [@mitchazj](https://twitter.com/mitchazj))
 - Lewis Bobbermen (Twitter: [@_lewisjb](https://twitter.com/_lewisjb))
 - Brendan Clohesy (?)
 - Jonny Hall (Email: jonnyhall@bigpond.com, Messenger: m.me/thejonnyhall)
